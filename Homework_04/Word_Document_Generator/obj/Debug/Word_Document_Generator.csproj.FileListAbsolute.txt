@@ -1,0 +1,7 @@
+D:\OOP\Homeworks\Homework_04\GalacticGPS\Word_Document_Generator\bin\Debug\Word_Document_Generator.exe.config
+D:\OOP\Homeworks\Homework_04\GalacticGPS\Word_Document_Generator\bin\Debug\Word_Document_Generator.exe
+D:\OOP\Homeworks\Homework_04\GalacticGPS\Word_Document_Generator\bin\Debug\Word_Document_Generator.pdb
+D:\OOP\Homeworks\Homework_04\GalacticGPS\Word_Document_Generator\bin\Debug\DocX.dll
+D:\OOP\Homeworks\Homework_04\GalacticGPS\Word_Document_Generator\obj\Debug\Word_Document_Generator.csprojResolveAssemblyReference.cache
+D:\OOP\Homeworks\Homework_04\GalacticGPS\Word_Document_Generator\obj\Debug\Word_Document_Generator.exe
+D:\OOP\Homeworks\Homework_04\GalacticGPS\Word_Document_Generator\obj\Debug\Word_Document_Generator.pdb
